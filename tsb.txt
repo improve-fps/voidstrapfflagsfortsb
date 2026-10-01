@@ -1,0 +1,44 @@
+{
+  "DFIntDebugFRMQualityLevelOverride": "1",
+
+  "DFIntTaskSchedulerTargetFps": "240",
+
+  "FFlagDisablePostFx": "True",
+
+  "FIntRenderShadowIntensity": "0",
+
+  "DFFlagDebugPauseVoxelizer": "True",
+
+  "FIntDebugForceMSAASamples": "1",
+
+  "DFIntTextureQualityOverride": "0",
+  "DFFlagTextureQualityOverrideEnabled": "True",
+
+  "FIntFRMMinGrassDistance": "0",
+  "FIntFRMMaxGrassDistance": "0",
+  "FIntRenderGrassDetailStrands": "0",
+
+  "DFIntCSGLevelOfDetailSwitchingDistance": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
+  "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
+
+  "FFlagFastGPULightCulling3": "True",
+
+  "FFlagOptimizeCFrameUpdates4": "True",
+  "FFlagOptimizeCFrameUpdatesIC4": "True",
+
+  "FFlagFixParticleAttachmentCulling": "True",
+
+  "FIntGrassMovementReducedMotionFactor": "0",
+
+  "FFlagDebugGraphicsPreferD3D11": "True",
+
+  "FFlagDebugSkyGray": "True",
+
+  "DFIntConnectionMTUSize": "1400",
+
+  "FFlagEnableReducedLatency": "True",
+
+  "FFlagDebugDisplayFPS": "True"
+}
